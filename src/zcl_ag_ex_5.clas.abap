@@ -17,5 +17,6 @@ CLASS ZCL_AG_EX_5 IMPLEMENTATION.
 
   method DO_THINGS.
     "this is the method implementation
+    "adding comment line for add-new-feature-1 - CHEMOND
   endmethod.
 ENDCLASS.
